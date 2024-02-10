@@ -501,7 +501,7 @@
                     </ul>
                 </div>
 
-                <p>Handcrafted by Hady Korshem &copy; 2023</p>
+                <p>Handcrafted by Hady Korshem &copy; 2024</p>
 
             </footer>
         </div>
