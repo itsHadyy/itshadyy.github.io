@@ -1,0 +1,79 @@
+@media screen and (max-width: 1050px){
+    .logo{
+        width: 10%;
+    }
+    .links{
+        width: 90%;
+    }
+
+    .header-img{
+        width: 70%;
+    }
+    header h1{
+        font-size: 28px;
+    }
+
+    .header{
+        margin: 40px 0;
+    }
+
+    header{
+        height: 60vh;
+    }
+
+    .home01 p{
+        width: 80%;
+    }
+
+    .grid{
+        grid-template-columns: repeat(2, minmax(80px, 1fr));
+        gap: 40px;
+    }
+
+    .card{
+        height: 380px;
+    }
+
+    .card h2{
+        font-size: 28px;
+    }
+    input[type='submit']{
+        width: 70%;
+    }
+
+    .contact-form{
+        width: 100%;
+    }
+
+    .testimonials{
+        height: 420px;
+    }
+
+    .home02 .grid{
+        gap: 20px;
+        grid-template-columns: repeat(1, minmax(80px, 1fr));
+    }
+
+    .home02 h4{
+        font-weight: 100;
+    }
+
+    .home02-grid{
+        gap: 20px;
+        margin-bottom: 40px;
+    }
+
+    #more{
+        width: 36%;
+    }
+
+    .home03 .grid{
+        grid-template-columns: repeat(2, minmax(80px, 1fr));
+        gap: 40px;
+        margin-bottom: 40px;
+    }
+
+    .hidden-section{
+        margin-top: 40px;
+    }
+}

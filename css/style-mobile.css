@@ -1,0 +1,156 @@
+@media screen and (max-width: 500px) {
+    .links {
+        display: none;
+    }
+
+    .logo {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header {
+        text-align: center;
+    }
+
+    .header-img {
+        width: 80%;
+        margin: 30px auto;
+    }
+
+    header {
+        padding: 30px 30px;
+        height: 75vh;
+    }
+
+    header h1 {
+        font-size: 26px;
+    }
+
+    .home {
+        padding: 30px 30px;
+    }
+
+    .home01 p {
+        font-size: .9rem !important;
+        width: 90%;
+    }
+
+    .home01 h1 {
+        font-size: 26px;
+    }
+
+    .grid,
+    .home02 .grid {
+        grid-template-columns: repeat(1, minmax(26%, 1fr));
+    }
+
+    .card {
+        padding: 20px;
+        height: 380px;
+    }
+
+    .card-l {
+        grid-column: auto;
+    }
+
+    .card:nth-child(1) {
+        height: 280px;
+    }
+
+    .card h2 {
+        font-size: 26px;
+    }
+
+    .testimonials {
+        height: min-content;
+        transition: 1s all ease !important;
+    }
+
+    .slideshow-container .mySlides:nth-child(1) {
+        padding-top: 40px;
+    }
+
+    .home02 h4 {
+        font-weight: 100;
+        font-size: 14px;
+        margin-top: 0;
+    }
+
+    .home02 .grid {
+        gap: 0;
+        margin: 0;
+    }
+
+    .skill {
+        font-size: 14px;
+    }
+
+    .home02-grid {
+        gap: 20px;
+        grid-template-columns: repeat(2, minmax(80px, 1fr));
+    }
+
+    .home03 .grid {
+        grid-template-columns: repeat(2, minmax(80px, 1fr));
+        gap: 14px;
+        margin-bottom: 14px;
+    }
+
+    .project i {
+        font-size: 12px;
+    }
+
+    .project p {
+        margin: 4px 0;
+    }
+
+    .project {
+        padding: 10px;
+    }
+
+    .local_link {
+        font-size: 14px;
+    }
+
+    input[type='submit'],
+    #more {
+        width: 80%;
+    }
+
+    .home03 p {
+        font-size: 14px;
+    }
+
+    footer {
+        padding: 60px 20px;
+        padding-bottom: 10px;
+    }
+
+    footer h5 {
+        font-size: 20px;
+        letter-spacing: .1em;
+    }
+
+    .social-media ul li a {
+        width: 40px;
+        height: 40px;
+        padding: 2px;
+        margin: 0 8px;
+    }
+
+    .social-media ul li a .fa {
+        font-size: 20px;
+    }
+
+    .social-media ul li:nth-child(1) a .fa {
+        font-size: 26px;
+    }
+
+    .social-media ul li:nth-child(5) a .fa {
+        font-size: 22px;
+    }
+
+    footer p {
+        font-size: 14px;
+    }
+}
