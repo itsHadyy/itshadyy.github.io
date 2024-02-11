@@ -1,8 +1,37 @@
-# The Great Outdoors
+# Hady Korshem
 
 # 💫 About Me:
 I craft solid and scalable frontend products with great user experiences.<br>I've done remote work for agencies, consulted for startups, university projects, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.<br>Experienced Web Developer adapts in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in the design, installation, testing and maintenance of websites. Able to effectively self-manage during independent projects, as well as collaborating in a team setting.<br>I'm probably not the typical designer positioned behind an Illustrator art board adjusting pixels, but I design. Immersed in stylesheets tweaking font sizes and contemplating layouts is where you'll find me. I'm committed to creating fluent user experiences while staying fashionable.<br>In building/developing my designs and web pages, I'm equipped with just the right tools, and can absolutely function independently of them to deliver fast, resilient solutions optimized for scale — performance and scalability are priorities on my radar.<br>Languages I use:<br>HTML, CSS, JavaScript, Vue.JS, jQuery, PHP, Python, and MySQL<br><br>You can check my portfolio to see my some projects and to learn more about me —> https://itshadyy.github.io/korshem/
 
+Portfolio Website
+
+## Description
+This is a portfolio website showcasing my work as a frontend web developer. It includes a collection of projects highlighting my skills and expertise in web development.
+
+## Features
+- Responsive design for seamless viewing on all devices
+- Project showcase section with detailed information
+- About Me section providing insight into my background and skills
+- Contact form for potential collaboration opportunities
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- jQuery for interactivity
+- Git for version control
+
+## Future Improvements
+- Implementing a blog section to share insights and experiences
+- Adding animations and transitions to enhance user experience
+- Integrating a backend to handle form submissions and dynamic content
+
+## Author
+Hady Korshem
+itshadyy@gmail.com
+
+## Notice
+This code is the intellectual property of Hady Korshem. It is not to be used, copied, or distributed without explicit permission from the author.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itshadyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/korshem/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itshadyy) 
@@ -20,8 +49,7 @@ I craft solid and scalable frontend products with great user experiences.<br>I'v
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itshadyy&icon=2&color=9)](https://visitcount.itsvg.in)
