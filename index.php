@@ -17,7 +17,6 @@
         mail("itshadyy@gmail.com", $subject, $email_body, "itshadyy@gmail.com");
     }
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -223,6 +222,8 @@
                             <li class="skill">CSS Frameworks</li>
                             <li class="skill">PHP</li>
                             <li class="skill">Python</li>
+                            <li class="skill">Java</li>
+                            <li class="skill">Shopify</li>
                             <li class="skill">Responsive Design</li>
                             <li class="skill">Git & Github</li>
                             <li class="skill">Testing / Debugging</li>
@@ -248,7 +249,7 @@
                             <p>
                                 <a href="https://itshadyy.github.io/outdoors/" class="local_link">The Great Outdoors</a>
                                 <br>
-                                <a href="https://itshadyy.github.io/outdoors/"><i>outdoors.korshem.com</i></a>
+                                <a href="https://itshadyy.github.io/outdoors/"><i>itshadyy.github.io/outdoors</i></a>
                             </p>
                         </div>
 
@@ -259,7 +260,7 @@
                             <p>
                                 <a href="https://itshadyy.github.io/bay/" class="local_link">The Bay -- 18</a>
                                 <br>
-                                <a href="https://itshadyy.github.io/bay/"><i>bay.korshem.com</i></a>
+                                <a href="https://itshadyy.github.io/bay/"><i>itshadyy.github.io/bay</i></a>
                             </p>
                         </div>
 
@@ -274,13 +275,23 @@
                             </p>
                         </div> -->
 
-                        <div class="project">
+                        <!-- <div class="project">
                             <a href="https://ivory-hk.com">
                                 <img src="media/projects/ivory.webp" alt="ivory."  loading="lazy">
                             </a>
                             <p>
                                 <a href="https://ivory-hk.com" class="local_link">ivory.</a> <br>
                                 <a href="https://ivory-hk.com"><i>ivory-hk.com</i></a>
+                            </p>
+                        </div> -->
+
+                        <div class="project">
+                            <a href="https://itshadyy.github.io/haus/">
+                                <img src="media/projects/haus.webp" alt=" Logo"  loading="lazy">
+                            </a>
+                            <p>
+                                <a href="https://itshadyy.github.io/haus/" class="local_link">HAUS - Landing Page</a> <br>
+                                <a href="https://itshadyy.github.io/haus/"><i>itshadyy.github.io/haus</i></a>
                             </p>
                         </div>
 
@@ -290,7 +301,7 @@
                             </a>
                             <p>
                                 <a href="https://itshadyy.github.io/gaia/" class="local_link">GAIA - E-Commerce</a> <br>
-                                <a href="https://itshadyy.github.io/gaia/"><i>gaia.korshem.com</i></a>
+                                <a href="https://itshadyy.github.io/gaia/"><i>itshadyy.github.io/gaia</i></a>
                             </p>
                         </div>
 
@@ -312,7 +323,7 @@
                                     <a href="https://itshadyy.github.io/stroop/" class="local_link">STROOP - Development
                                         Agency</a>
                                     <br>
-                                    <a href="https://itshadyy.github.io/stroop/"><i>stroop.korshem.com</i></a>
+                                    <a href="https://itshadyy.github.io/stroop/"><i>itshadyy.github.io/stroop</i></a>
                                 </p>
                             </div>
 
@@ -324,17 +335,7 @@
                                     <a href="https://itshadyy.github.io/lavie/" class="local_link">LaVie - Luxurious
                                         Restaurant</a>
                                     <br>
-                                    <a href="https://itshadyy.github.io/lavie/"><i>LaVie.korshem.com</i></a>
-                                </p>
-                            </div>
-
-                            <div class="project">
-                                <a href="https://itshadyy.github.io/haus/">
-                                    <img src="media/projects/haus.webp" alt=" Logo"  loading="lazy">
-                                </a>
-                                <p>
-                                    <a href="https://itshadyy.github.io/haus/" class="local_link">HAUS - Landing Page</a> <br>
-                                    <a href="https://itshadyy.github.io/haus/"><i>haus.korshem.com</i></a>
+                                    <a href="https://itshadyy.github.io/lavie/"><i>itshadyy.github.io/LaVie</i></a>
                                 </p>
                             </div>
 
@@ -346,7 +347,7 @@
                                     <a href="https://itshadyy.github.io/cd/" class="local_link">Coffee & Design - Landing
                                         Page</a>
                                     <br>
-                                    <a href="https://itshadyy.github.io/cd/"><i>cd.korshem.com</i></a>
+                                    <a href="https://itshadyy.github.io/cd/"><i>itshadyy.github.io/cd</i></a>
                                 </p>
                             </div>
 
@@ -358,7 +359,7 @@
                                     <a href="https://itshadyy.github.io/grange/" class="local_link">Grange - Landing
                                         Page</a>
                                     <br>
-                                    <a href="https://itshadyy.github.io/grange/"><i>grange.korshem.com</i></a>
+                                    <a href="https://itshadyy.github.io/grange/"><i>itshadyy.github.io/grange</i></a>
                                 </p>
                             </div>
 
@@ -373,12 +374,12 @@
                             </div> -->
 
                             <div class="project">
-                                <a href="https://abowafa.com">
+                                <a href="https://itshadyy.github.io/abowafa/">
                                     <img src="media/projects/wafa.webp" alt=" Logo"  loading="lazy">
                                 </a>
                                 <p>
-                                    <a href="https://abowafa.com" class="local_link">Abo ElWafa - Filmmaker</a> <br>
-                                    <a href="https://abowafa.com"><i>abowafa.com</i></a>
+                                    <a href="https://itshadyy.github.io/abowafa/" class="local_link">Abo ElWafa - Filmmaker</a> <br>
+                                    <a href="https://itshadyy.github.io/abowafa/"><i>itshadyy.github.io/abowafa</i></a>
                                 </p>
                             </div>
 
@@ -433,12 +434,12 @@
                             </div> -->
 
                             <div class="project">
-                                <a href="https://itshadyy.github.io/korshem/">
+                                <a href="https://itshadyy.github.io">
                                     <img src="media/projects/hk.webp" alt="Hady Korshem"  loading="lazy">
                                 </a>
                                 <p>
-                                    <a href="https://itshadyy.github.io/korshem/" class="local_link">Hady Korshem - Portfolio</a> <br>
-                                    <a href="https://itshadyy.github.io/korshem/"><i>korshem.com</i></a>
+                                    <a href="https://itshadyy.github.io" class="local_link">Hady Korshem - Portfolio</a> <br>
+                                    <a href="https://itshadyy.github.io"><i>itshadyy.github.io</i></a>
                                 </p>
                             </div>
 
