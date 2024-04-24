@@ -159,7 +159,7 @@ header {
     flex-wrap: nowrap;
     gap: 40px;
     border-radius: 20px;
-    transition: .6s ease all;
+    transition: .6s ease all, height  .3s linear;
 }
 
 .card-l {
@@ -266,7 +266,7 @@ input[type='submit']:hover,
 
 input:focus,
 textarea:focus {
-    transform: scale(1.1);
+    transform: scale(1.05);
     box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px
 }
 
@@ -600,17 +600,17 @@ footer h5 {
     background: linear-gradient(0deg, #2682a6, var(--darkBlue));
     border-radius: 50%;
     line-height: calc(50px - 12px);
-    font-size: 26px;
+    font-size: 22px;
     color: var(--primaryColor);
     transition: .5s;
 }
 
 .social-media ul li:nth-child(1) a .fa {
-    font-size: 32px;
+    font-size: 22px;
 }
 
 .social-media ul li:nth-child(5) a .fa {
-    font-size: 28px;
+    font-size: 22px;
 }
 
 .social-media ul li:nth-child(1) a:hover .fa {

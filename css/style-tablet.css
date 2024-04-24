@@ -1,4 +1,4 @@
-@media screen and (max-width: 1050px){
+@media screen and (max-width: 1200px){
     .logo{
         width: 10%;
     }
@@ -46,7 +46,7 @@
     }
 
     .testimonials{
-        height: 420px;
+        height: min-content;
     }
 
     .home02 .grid{
@@ -68,7 +68,7 @@
     }
 
     .home03 .grid{
-        grid-template-columns: repeat(2, minmax(80px, 1fr));
+        grid-template-columns: repeat(3, minmax(80px, 1fr));
         gap: 40px;
         margin-bottom: 40px;
     }

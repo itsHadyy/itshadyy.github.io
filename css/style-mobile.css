@@ -64,10 +64,20 @@
     .testimonials {
         height: min-content;
         transition: 1s all ease !important;
+        text-align: justify !important;
     }
 
-    .slideshow-container .mySlides:nth-child(1) {
-        padding-top: 40px;
+    .next {
+        right: -1.5rem;
+    }
+
+    .prev {
+        left: -1.5rem;
+    }
+
+    .prev:hover,
+    .next:hover {
+        transform: scale(1);
     }
 
     .home02 h4 {
@@ -143,11 +153,15 @@
     }
 
     .social-media ul li:nth-child(1) a .fa {
-        font-size: 26px;
+        font-size: 20px;
+    }
+
+    .social-media ul li a .fa-brands {
+        font-size: 20px;
     }
 
     .social-media ul li:nth-child(5) a .fa {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     footer p {
