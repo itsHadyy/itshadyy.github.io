@@ -16,8 +16,7 @@
     else{
         mail("itshadyy@gmail.com", $subject, $email_body, "itshadyy@gmail.com");
     }
-?>
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <html lang="en">
 
     <head>
@@ -41,6 +40,9 @@
         <meta name="keywords"
             content="graphic design, web design, fron-end web development, web development, html, css, javascript, jquery, vanillajs, website design, website development, responsive, responsive web design, responsive web development, web dev, how to design a website, frontend web developer, web developer in egypt, egypt, remote, freelance, web designer in egypt, web design, front-end application, Shopify, shopify developer, shopify developer in Egypt">
 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+            integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+            crossorigin="anonymous" referrerpolicy="no-referrer" />
         <link rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -136,53 +138,46 @@
 
                             <div class="mySlides fade">
                                 <p>“I wasn't completely aware of the word professional until I worked with Hady, he
-                                    always
-                                    knew
-                                    where he is heading and when he
-                                    should take his next step. Also, he is detail-oriented in an unbelievable way, he
-                                    never
-                                    settles for less, he always manages his
-                                    tasks perfectly and he is aware of where he is standing afterwards he set a plan for
-                                    his
-                                    next step! On the other hand, Hady is not
-                                    anywhere near the word selfish he is always informative he loves to share all the
-                                    information he carries and he share it in a very
-                                    professional yet so simple way. Hady is a great addition to any place or even a
-                                    person
-                                    actually! I would always be proud that I knew
-                                    Hady in this phase in my life as I have learnt a lot from him actually and I am
-                                    pretty
-                                    sure
-                                    anyone would be too!”</p>
+                                    always knew
+                                    where he is heading and when he should take his next step. Also, he is
+                                    detail-oriented in an unbelievable way, he
+                                    never settles for less, he always manages his tasks perfectly and he is aware of
+                                    where he is standing afterwards he set a plan for
+                                    his next step! On the other hand, Hady is not anywhere near the word selfish he is
+                                    always informative he loves to share all the information he carries and he share it
+                                    in a very professional yet so simple way. Hady is a great addition to any place or
+                                    even a
+                                    person actually! I would always be proud that I knew Hady in this phase in my life
+                                    as I have learnt a lot from him actually and I am pretty sure anyone would be too!”
+                                </p>
                                 <h3>Nadeen Galal</h3>
                                 <p>SDGs Ambassador / Teaching Assistant</p>
                             </div>
 
                             <div class="mySlides fade">
                                 <p>“We meet people everyday but few of them only leave an imprint, and one of those few
-                                    people
-                                    is
-                                    Hady.
-                                    I was totally impressed by Hady’s ability to handle any situation calmly and
-                                    patiently,
-                                    even
-                                    with the toughest situations.
+                                    people is Hady. I was totally impressed by Hady’s ability to handle any situation
+                                    calmly and patiently, even with the toughest situations.
                                     This natural skill of his, has helped us throughout our journey. Hady is very
-                                    passionate
-                                    and
-                                    has great vision for his work.
-                                    His focus keeps everything moving smoothly, he makes sure all the deadlines are met,
-                                    and
-                                    makes sure that whatever project he is working on meets the highest standards.
+                                    passionate and has great vision for his work. His focus keeps everything moving
+                                    smoothly, he makes sure all the deadlines are met,
+                                    and makes sure that whatever project he is working on meets the highest standards.
                                     Hady is a joy to work with. He handled 'The Club Plus’s' Website, with aplomb and
-                                    diligence,
-                                    displaying the ability to follow creative direction while adding his own
+                                    diligence, displaying the ability to follow creative direction while adding his own
                                     creative input in a diplomatic and useful way. His work led to an increase in
-                                    click-troughs.
-                                    I genuinely and highly recommend Hady,
-                                    he’s an extremely valuable person to have in your network.”</p>
+                                    click-troughs. I genuinely and highly recommend Hady, he’s an extremely valuable
+                                    person to have in your network.”</p>
                                 <h3>Mirette I. Iskander</h3>
                                 <p>Regional HR Specialist - OBS</p>
+                            </div>
+
+                            <div class="mySlides fade">
+                                <p>“Inspiring and motivating, that is what comes to mind if I describe Hady. Hady is a
+                                    very organized person from building websites to developing it. He made a great
+                                    difference in the creativity of the team! I have had the pleasure to work with Hady
+                                    on the same project for The Club Plus. ”</p>
+                                <h3>Nourhan Sherif</h3>
+                                <p>Marketing Lecturer Assistant - AASTMT</p>
                             </div>
 
                             <span class="prev" onclick="plusSlides(-1)" aria-label="Previous Button">&#10094;</span>
@@ -202,7 +197,7 @@
                 <div class="home02" id="skills">
                     <h1 class="title">Skills</h1>
                     <div class="grid">
-                        <h4>
+                        <p>
                             Armed with a powerful coding wand, I dexterously conjure up enchanting visuals
                             backed by an intricate spellbook of technologies. I'm probably not the typical designer
                             positioned behind an Illustrator artboard adjusting pixels, but I design. Immersed in
@@ -211,7 +206,7 @@
                             building/developing my designs and web pages, I'm equipped with just the right tools, and
                             can absolutely function independently of them to deliver fast, resilient solutions optimized
                             for scale—performance and scalability are priorities on my radar. <br>
-                        </h4>
+                        </p>
                         <ul class="home02-grid">
                             <li class="skill">HTML5</li>
                             <li class="skill">CSS3</li>
@@ -244,7 +239,7 @@
                     <div class="grid">
                         <div class="project">
                             <a href="https://itshadyy.github.io/outdoors/">
-                                <img src="media/projects/outdoors.webp" alt="The Great Outdoors"  loading="lazy">
+                                <img src="media/projects/outdoors.webp" alt="The Great Outdoors" loading="lazy">
                             </a>
                             <p>
                                 <a href="https://itshadyy.github.io/outdoors/" class="local_link">The Great Outdoors</a>
@@ -255,7 +250,7 @@
 
                         <div class="project">
                             <a href="https://itshadyy.github.io/bay/">
-                                <img src="media/projects/bay.webp" alt="The Bay Logo"  loading="lazy">
+                                <img src="media/projects/bay.webp" alt="The Bay Logo" loading="lazy">
                             </a>
                             <p>
                                 <a href="https://itshadyy.github.io/bay/" class="local_link">The Bay -- 18</a>
@@ -287,17 +282,18 @@
 
                         <div class="project">
                             <a href="https://itshadyy.github.io/haus/">
-                                <img src="media/projects/haus.webp" alt=" Logo"  loading="lazy">
+                                <img src="media/projects/haus.webp" alt=" Logo" loading="lazy">
                             </a>
                             <p>
-                                <a href="https://itshadyy.github.io/haus/" class="local_link">HAUS - Landing Page</a> <br>
+                                <a href="https://itshadyy.github.io/haus/" class="local_link">HAUS - Landing Page</a>
+                                <br>
                                 <a href="https://itshadyy.github.io/haus/"><i>itshadyy.github.io/haus</i></a>
                             </p>
                         </div>
 
                         <div class="project">
                             <a href="https://itshadyy.github.io/gaia/">
-                                <img src="media/projects/gaia.webp" alt=" Logo"  loading="lazy">
+                                <img src="media/projects/gaia.webp" alt=" Logo" loading="lazy">
                             </a>
                             <p>
                                 <a href="https://itshadyy.github.io/gaia/" class="local_link">GAIA - E-Commerce</a> <br>
@@ -317,7 +313,7 @@
                         <div class="grid">
                             <div class="project">
                                 <a href="https://itshadyy.github.io/stroop/">
-                                    <img src="media/projects/stroop.webp" alt=" Logo"  loading="lazy">
+                                    <img src="media/projects/stroop.webp" alt=" Logo" loading="lazy">
                                 </a>
                                 <p>
                                     <a href="https://itshadyy.github.io/stroop/" class="local_link">STROOP - Development
@@ -329,7 +325,7 @@
 
                             <div class="project">
                                 <a href="https://itshadyy.github.io/lavie/">
-                                    <img src="media/projects/lavie.webp" alt=" Logo"  loading="lazy">
+                                    <img src="media/projects/lavie.webp" alt=" Logo" loading="lazy">
                                 </a>
                                 <p>
                                     <a href="https://itshadyy.github.io/lavie/" class="local_link">LaVie - Luxurious
@@ -341,10 +337,11 @@
 
                             <div class="project">
                                 <a href="https://itshadyy.github.io/cd/">
-                                    <img src="media/projects/coffee_design.webp" alt=" Logo"  loading="lazy">
+                                    <img src="media/projects/coffee_design.webp" alt=" Logo" loading="lazy">
                                 </a>
                                 <p>
-                                    <a href="https://itshadyy.github.io/cd/" class="local_link">Coffee & Design - Landing
+                                    <a href="https://itshadyy.github.io/cd/" class="local_link">Coffee & Design -
+                                        Landing
                                         Page</a>
                                     <br>
                                     <a href="https://itshadyy.github.io/cd/"><i>itshadyy.github.io/cd</i></a>
@@ -353,7 +350,7 @@
 
                             <div class="project">
                                 <a href="https://itshadyy.github.io/grange/">
-                                    <img src="media/projects/grange.webp" alt="Grange Logo"  loading="lazy">
+                                    <img src="media/projects/grange.webp" alt="Grange Logo" loading="lazy">
                                 </a>
                                 <p>
                                     <a href="https://itshadyy.github.io/grange/" class="local_link">Grange - Landing
@@ -375,10 +372,11 @@
 
                             <div class="project">
                                 <a href="https://itshadyy.github.io/abowafa/">
-                                    <img src="media/projects/wafa.webp" alt=" Logo"  loading="lazy">
+                                    <img src="media/projects/wafa.webp" alt=" Logo" loading="lazy">
                                 </a>
                                 <p>
-                                    <a href="https://itshadyy.github.io/abowafa/" class="local_link">Abo ElWafa - Filmmaker</a> <br>
+                                    <a href="https://itshadyy.github.io/abowafa/" class="local_link">Abo ElWafa -
+                                        Filmmaker</a> <br>
                                     <a href="https://itshadyy.github.io/abowafa/"><i>itshadyy.github.io/abowafa</i></a>
                                 </p>
                             </div>
@@ -435,10 +433,11 @@
 
                             <div class="project">
                                 <a href="https://itshadyy.github.io">
-                                    <img src="media/projects/hk.webp" alt="Hady Korshem"  loading="lazy">
+                                    <img src="media/projects/hk.webp" alt="Hady Korshem" loading="lazy">
                                 </a>
                                 <p>
-                                    <a href="https://itshadyy.github.io" class="local_link">Hady Korshem - Portfolio</a> <br>
+                                    <a href="https://itshadyy.github.io" class="local_link">Hady Korshem - Portfolio</a>
+                                    <br>
                                     <a href="https://itshadyy.github.io"><i>itshadyy.github.io</i></a>
                                 </p>
                             </div>
@@ -493,7 +492,7 @@
                         <li><a href="https://www.linkedin.com/in/korshem/" aria-label="LinkedIn"><i
                                     class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
-                        <li><a href="https://twitter.com/itshadyy" aria-label="Twitter"><i class="fa fa-twitter"
+                        <li><a href="https://x.com/itshadyy" aria-label="Twitter"><i class="fa-brands fa-x-twitter"
                                     aria-hidden="true"></i></a>
                         </li>
 
@@ -502,7 +501,7 @@
                     </ul>
                 </div>
 
-                <p>Handcrafted by Hady Korshem &copy; 2024</p>
+                <p>Designed & Handcrafted by Hady Korshem &copy; 2024</p>
 
             </footer>
         </div>
