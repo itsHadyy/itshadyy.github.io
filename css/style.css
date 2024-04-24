@@ -324,15 +324,19 @@ textarea:focus {
     transform: scale(1.5);
 }
 
-.slideshow-container .mySlides:nth-child(1) {
+.slideshow-container .mySlides:nth-child(2) {
+    padding-top: 20px;
+}
+
+.slideshow-container .mySlides:nth-child(3) {
     padding-top: 10px;
 }
 
-.slideshow-container .mySlides:nth-child(2) {
+.slideshow-container .mySlides:nth-child(4) {
     padding-top: 4px;
 }
 
-.slideshow-container .mySlides:nth-child(4) {
+.slideshow-container .mySlides:nth-child(6) {
     padding-top: 40px;
 }
 
