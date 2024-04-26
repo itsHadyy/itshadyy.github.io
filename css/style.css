@@ -15,6 +15,7 @@
     --linkedIn: #007bb6;
     --twitter: #00aced;
     --instagram: #e4405f;
+    --discord: #5865F2;
 }
 
 
@@ -631,4 +632,8 @@ footer h5 {
 
 .social-media ul li:nth-child(5) a:hover .fa {
     color: var(--instagram);
+}
+
+.social-media ul li:nth-child(6) a:hover .fa {
+    color: var(--discord);
 }

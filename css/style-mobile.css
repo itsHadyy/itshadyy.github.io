@@ -64,7 +64,6 @@
     .testimonials {
         height: min-content;
         transition: 1s all ease !important;
-        text-align: justify !important;
     }
 
     .next {
