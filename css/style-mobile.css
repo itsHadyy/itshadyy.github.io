@@ -27,7 +27,7 @@
     }
 
     .home {
-        padding: 30px 30px;
+        padding: 30px 20px;
     }
 
     .home01 p {
@@ -62,8 +62,16 @@
     }
 
     .testimonials {
-        height: min-content;
+        height: max-content;
         transition: 1s all ease !important;
+    }
+
+    .testimonials .slideshow-container {
+        display: none;
+    }
+
+    .parentTestimonial {
+        display: block;
     }
 
     .next {
