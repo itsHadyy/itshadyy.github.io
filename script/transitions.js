@@ -30,4 +30,25 @@ $(document).ready(function () {
         $("#hiddenSection").slideDown(2000);
         $("#more").hide();
     });
+
+
 });
+
+$(document).ready(function() {
+    $('.accordion-item-header').click(function() {
+      // Close all other accordion bodies
+      $('.accordion-item-body').not($(this).siblings('.accordion-item-body')).slideUp();
+      $(this).toggleClass('active');
+      $(this).siblings('.accordion-item-body').slideToggle();
+    });
+  
+    // Set initial state for all bodies (closed)
+    $('.accordion-item-body').attr('data-closed-message', 'Click to see full testimonial').hide();
+  
+    // Show the first testimonial by default
+    // $('.accordion-item:first-child .accordion-item-body').show();
+  });
+
+  
+  
+
