@@ -11,9 +11,9 @@ $(document).ready(function () {
         if ($(window).scrollTop() >= 220) {
             $('.projects').animate({ opacity: 1 }, 2000);
             $('.skills').animate({ opacity: 1 }, 2000);
-            $('.contact').animate({ opacity: 1 }, 3000);
-            $('.testimonials').animate({ opacity: 1 }, 3000);
-            $('.experience').animate({ opacity: 1 }, 3500);
+            $('.contact').animate({ opacity: 1 }, 2500);
+            $('.testimonials').animate({ opacity: 1 }, 2500);
+            $('.experience').animate({ opacity: 1 }, 3000);
 
         }
 
