@@ -53,6 +53,24 @@
         grid-column: auto;
     }
 
+    .card-xl {
+        grid-column: auto;
+        height: max-content;
+        touch-action: manipulation;
+    }
+
+    .card-xl .accordion {
+        grid-template-columns: auto;
+    }
+
+    .expanded02 {
+        height: max-content !important;
+    }
+
+    .card-xl .accordion-item {
+        margin: 10px 0;
+    }
+
     .card:nth-child(1) {
         height: 280px;
     }

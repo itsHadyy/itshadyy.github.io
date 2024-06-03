@@ -27,6 +27,4 @@ function showSlides(n) {
 }
 // slide show ends here
 
-document.addEventListener('contextmenu', event => {
-    event.preventDefault();
-});
+

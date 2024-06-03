@@ -167,6 +167,11 @@ header {
     grid-column: auto / span 2;
 }
 
+.card-xl {
+    grid-column: auto / span 3;
+    height: auto;
+}
+
 .grid a {
     text-decoration: none;
 }
@@ -211,8 +216,39 @@ header {
 }
 
 .contact,
-.testimonials {
+.testimonials,
+.experience {
     cursor: default !important;
+}
+
+.card-xl .accordion {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    /* gap: 20px; */
+}
+
+.card-xl .accordion-item {
+    margin: 20px;
+}
+
+.card-xl .accordion-item:nth-child(1) {
+    margin-top: 20px;
+}
+
+.card-xl .accordion-item:last-child {
+    margin-bottom: 20px;
+}
+
+.card-xl .accordion-item-body {
+    padding: 10px 20px;
+    padding-top: 0px;
+}
+
+.card-xl .accordion-item-body p {
+    text-align: justify;
+    padding-top: 8px;
 }
 
 .accordion {
@@ -222,10 +258,11 @@ header {
     border-radius: 5px;
 }
 
-.accordion-item:nth-child(1){
+.accordion-item:nth-child(1) {
     margin-top: 0;
 }
-.accordion-item:last-child{
+
+.accordion-item:last-child {
     margin-bottom: 0;
 }
 
@@ -245,6 +282,7 @@ header {
     color: var(--lemonish);
     margin: 4px;
 }
+
 .accordion-item-header p {
     margin: 4px;
 }
@@ -258,7 +296,7 @@ header {
     /* Text color for closed state */
 }
 
-.accordion-item-header span{
+.accordion-item-header span {
     font-style: italic;
     color: var(--greenish);
     font-size: 0.8em;
@@ -269,7 +307,7 @@ header {
     font-size: 14px;
 }
 
-.accordion-item a{
+.accordion-item a {
     text-decoration: none;
     color: var(--primaryColor);
 }
