@@ -30,7 +30,7 @@ $(document).ready(function () {
     $("#hiddenSection").hide();
 
     $("#more").click(function () {
-        $("#hiddenSection").slideDown(2000);
+        $("#hiddenSection").slideDown(3000);
         $("#more").hide();
     });
 });
