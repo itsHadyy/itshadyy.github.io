@@ -7,7 +7,7 @@
     }
 
     .header-img{
-        width: 70%;
+        width: 50%;
     }
     header h1{
         font-size: 28px;
@@ -15,10 +15,6 @@
 
     .header{
         margin: 40px 0;
-    }
-
-    header{
-        height: 60vh;
     }
 
     .home01 p{
