@@ -21,10 +21,13 @@
 
 * {
     box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-margin: 60px;
 }
 
 html {
     scroll-behavior: smooth;
+    scroll-margin: 60px;
 }
 
 body {
@@ -34,6 +37,7 @@ body {
     padding: 0px;
     margin: 0px;
     overflow-x: hidden;
+    scroll-margin: 60px;
 }
 
 header {
