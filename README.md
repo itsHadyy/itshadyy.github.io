@@ -89,6 +89,3 @@ This code is the intellectual property of **Hady Korshem**. Please refrain from 
 
 [![](https://visitcount.itsvg.in/api?id=itshadyy&icon=2&color=9)](https://visitcount.itsvg.in)
 
----
-
-**Proudly created with GPRM** (https://gprm.itsvg.in)
