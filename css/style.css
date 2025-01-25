@@ -614,7 +614,7 @@ textarea:focus {
 
 .home03 .grid {
     grid-template-columns: repeat(4, minmax(80px, 1fr));
-    margin: 0px auto;
+    margin: 30px auto;
     gap: 30px;
 }
 
